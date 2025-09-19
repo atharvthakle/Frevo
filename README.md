@@ -1,6 +1,6 @@
 # FREVO
 
-This repository contains the frontend prototype of **FREVO**, a Gen Z-first fintech platform that blends **money, compliance, identity, jobs, education, and community**. The UI/UX is designed to be fast, gamified, colorful, and minimal — inspired by platforms like **Duolingo** and modern neo-banks.
+This repository contains the frontend prototype of FREVO, a Gen Z-first fintech platform that blends money, compliance, identity, jobs, education, and community.
 
 ---
 
@@ -16,7 +16,7 @@ This repository contains the frontend prototype of **FREVO**, a Gen Z-first fint
 ---
 
 ## Project Overview
-FREVO’s frontend prototype demonstrates the **core user experience** including onboarding, dashboard, vaults, FX conversion, invoicing, community engagement, education hub, and a freelancer marketplace. This is **Phase 1 (MVP)** of the platform.
+FREVO’s frontend prototype demonstrates the core user experience including onboarding, dashboard, vaults, FX conversion, invoicing, community engagement, education hub, and a freelancer marketplace. This is Phase 1 (MVP) of the platform.
 
 ---
 
@@ -25,7 +25,7 @@ FREVO’s frontend prototype demonstrates the **core user experience** including
 ### Onboarding & Digital Identity
 - Persona selection: Freelancer / Client / Builder / General User
 - Sign-up via Mobile/Email + KYC (PAN/Aadhaar)
-- Create a **Frevo Verified ID** (portable QR portfolio)
+- Create a Frevo Verified ID (portable QR portfolio)
 - Gamified flow with levels and badges
 
 ### Dashboard
@@ -104,13 +104,13 @@ FREVO’s frontend prototype demonstrates the **core user experience** including
 - npm or pnpm
 
 ### Installation
-```bash
+```cmd
 # Clone the repository
 git clone https://github.com/atharvthakle/Frevo.git
 cd Frevo
 
 # Install dependencies
-npm install --legacy-peer-deps
+npm install
 
 # Run the development server
 npm run dev
