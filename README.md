@@ -1,6 +1,6 @@
 # FREVO
 
-This repository contains the frontend prototype of FREVO, a Gen Z-first fintech platform that blends money, compliance, identity, jobs, education, and community.
+This repository contains the frontend prototype of FREVO, a Gen Z-first fintech platform that blends money, compliance, identity, jobs, education, and community. This frontend was developed as a prototype for a friend's startup, to demonstrate the core UI/UX and features of the FREVO platform.
 
 ---
 
@@ -114,3 +114,6 @@ npm install
 
 # Run the development server
 npm run dev
+
+# Deploy locally
+Open http://localhost:3000 to view in the browser.
